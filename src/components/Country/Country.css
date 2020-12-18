@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    padding: 10px;
+    border-bottom: 2px solid lightgray;
+    
+}
+
+.flag{
+    height: 40%;
+    width: 40%;
+}
